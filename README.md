@@ -5,4 +5,3 @@ Cell tracker was developed to track cellular motion and cytometric data in fluor
 The application was developed using MATLAB and the image processing toolbox.
 
 ![ui](./wiki/ui.png)
-![control](./wiki/control.png)
